@@ -1,0 +1,3 @@
+# Copier ce fichier en config.yml et renseigner les tokens (sans le préfixe "Bearer ")
+ltds_token: "<token La Table des Savoirs>"
+kultero_token: "<token Kultero>"
